@@ -160,7 +160,7 @@ def evaluate_network(config,Shuffles=[1],plotting = None,show_errors = True,comp
                     PredicteData = np.zeros((Numimages,3 * len(dlc_cfg['all_joints_names'])))
                     print("Analyzing data...")
                     for imageindex, imagename in tqdm(enumerate(Data.index)):
-                        image = io.imread(os.path.join(cfg['project_path'],imagename),mode='RGB')
+                        image = io.imread(os.path.join(cfg['project_path'],'labeled-data',imagename),mode='RGB') #CT added this
                         image = skimage.color.gray2rgb(image)
                         image_batch = data_to_input(image)
                         
