@@ -1,0 +1,36 @@
+batch_size: 4
+project_path: /Users/camilletestard/DeepLabCut_v2/generate_training_dataset/Hayden-Claudia-2018-11-28
+iteration: 0
+colormap: hsv
+alphavalue: 0.5
+dotsize: 12
+y2: 624
+y1: 277
+x2: 640
+x1: 0
+move2corner: false
+corner2move2: !!python/tuple
+- 50
+- 50
+pcutoff: 0.1
+snapshotindex: -1
+resnet: 50
+TrainingFraction:
+- 0.95
+date: Nov28
+scorer: Claudia
+bodyparts:
+- r_ear
+- l_ear
+- r_hand
+- l_hand
+- r_foot
+- l_foot
+numframes2pick: 20
+stop: 1
+start: 0
+cropping: false
+video_sets:
+  /Users/camilletestard/DeepLabCut_v2/generate_training_dataset/Sample_video_Hayden.mp4:
+    crop: 0, 1920, 0, 1080
+Task: Hayden

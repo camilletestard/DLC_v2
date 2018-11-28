@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/camilletestard/DeepLabCut_v2/generate_training_dataset/Hayden-Claudia-2018-11-28/dlc-models/iteration-0/HaydenNov28-trainset95shuffle1/train/snapshot-500"
+all_model_checkpoint_paths: "/Users/camilletestard/DeepLabCut_v2/generate_training_dataset/Hayden-Claudia-2018-11-28/dlc-models/iteration-0/HaydenNov28-trainset95shuffle1/train/snapshot-100"
+all_model_checkpoint_paths: "/Users/camilletestard/DeepLabCut_v2/generate_training_dataset/Hayden-Claudia-2018-11-28/dlc-models/iteration-0/HaydenNov28-trainset95shuffle1/train/snapshot-200"
+all_model_checkpoint_paths: "/Users/camilletestard/DeepLabCut_v2/generate_training_dataset/Hayden-Claudia-2018-11-28/dlc-models/iteration-0/HaydenNov28-trainset95shuffle1/train/snapshot-300"
+all_model_checkpoint_paths: "/Users/camilletestard/DeepLabCut_v2/generate_training_dataset/Hayden-Claudia-2018-11-28/dlc-models/iteration-0/HaydenNov28-trainset95shuffle1/train/snapshot-400"
+all_model_checkpoint_paths: "/Users/camilletestard/DeepLabCut_v2/generate_training_dataset/Hayden-Claudia-2018-11-28/dlc-models/iteration-0/HaydenNov28-trainset95shuffle1/train/snapshot-500"
